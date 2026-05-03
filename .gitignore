@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# But include these files/folders
+!.gitignore
+!README.md
+!LICENSE
+!Prezensy/
+!Prezensy/**
+
+# Ignore source code
+*.cs
+*.csproj
+*.sln
+obj/
+Properties/
+
+# Keep only compiled files
