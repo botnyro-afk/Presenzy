@@ -1,6 +1,6 @@
 # 🎮 Prezensy - Discord Rich Presence Customizer
 
-![Prezensy Banner](https://raw.githubusercontent.com/makcrtve/geetRPCS/main/assets/geetrpcs-banner.webp)
+
 
 ## 📥 Download
 
@@ -121,7 +121,6 @@ You can also manually check: Right-click tray icon → "Check for Updates"
 
 - **Issues**: [GitHub Issues](https://github.com/botnyro-afk/Presenzy/issues)
 - **Website**: [prezensy.vercel.app](https://prezensy.vercel.app/)
-- **Original Project**: [geetRPCS](https://github.com/makcrtve/geetRPCS)
 
 ## 📄 License
 
